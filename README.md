@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/ahishajayakumar12/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0268-missing-number](https://github.com/ahishajayakumar12/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ahishajayakumar12/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/ahishajayakumar12/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -49,4 +50,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/ahishajayakumar12/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/ahishajayakumar12/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/ahishajayakumar12/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
