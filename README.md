@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0268-missing-number](https://github.com/ahishajayakumar12/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ahishajayakumar12/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ahishajayakumar12/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +37,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/ahishajayakumar12/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ahishajayakumar12/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
