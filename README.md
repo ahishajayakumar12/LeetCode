@@ -7,6 +7,7 @@
 | [0268-missing-number](https://github.com/ahishajayakumar12/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ahishajayakumar12/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ahishajayakumar12/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/ahishajayakumar12/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,4 +43,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/ahishajayakumar12/LeetCode/tree/main/0268-missing-number/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3903-smallest-stable-index-i](https://github.com/ahishajayakumar12/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 <!---LeetCode Topics End-->
