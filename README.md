@@ -61,4 +61,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ahishajayakumar12/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/ahishajayakumar12/LeetCode/tree/main/1603-design-parking-system/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/ahishajayakumar12/LeetCode/tree/main/1603-design-parking-system/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/ahishajayakumar12/LeetCode/tree/main/1603-design-parking-system/) | Easy |
 <!---LeetCode Topics End-->
