@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/ahishajayakumar12/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0268-missing-number](https://github.com/ahishajayakumar12/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ahishajayakumar12/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [1046-last-stone-weight](https://github.com/ahishajayakumar12/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ahishajayakumar12/LeetCode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [3875-construct-uniform-parity-array-i](https://github.com/ahishajayakumar12/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ahishajayakumar12/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -79,6 +80,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1046-last-stone-weight](https://github.com/ahishajayakumar12/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ahishajayakumar12/LeetCode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
