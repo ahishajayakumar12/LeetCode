@@ -98,4 +98,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0185-department-top-three-salaries](https://github.com/ahishajayakumar12/LeetCode/tree/main/0185-department-top-three-salaries/) | Hard |
+| [0262-trips-and-users](https://github.com/ahishajayakumar12/LeetCode/tree/main/0262-trips-and-users/) | Hard |
 <!---LeetCode Topics End-->
