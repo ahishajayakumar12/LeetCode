@@ -94,4 +94,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ahishajayakumar12/LeetCode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0185-department-top-three-salaries](https://github.com/ahishajayakumar12/LeetCode/tree/main/0185-department-top-three-salaries/) | Hard |
 <!---LeetCode Topics End-->
